@@ -1,6 +1,6 @@
 title: "Tamara Dragutinovic — Legal & Fintech Writer"
 description: "Content on fintech, law, and regulation."
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
