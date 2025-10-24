@@ -8,6 +8,7 @@ baseurl: ""         # or "/REPO-NAME" for project sites
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+theme: jekyll-theme-minimal
 
 
 # Optional navigation (for themes that support it)
