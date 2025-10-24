@@ -5,7 +5,7 @@ date: 2025-10-24
 ---
 
 
-If you run a small platform or website in the EU, you’ve probably heard of the Digital Services Act (DSA) — or maybe not, because it seems like nobody is talking about it.
+If you run a small platform or website in the EU, you’ve probably heard of the Digital Services Act (DSA) - or maybe not, because it seems like nobody is talking about it.
 
 The truth? It’s real, in force, and technically applies to almost everyone online, even if enforcement still feels asleep.
 
@@ -43,7 +43,7 @@ No need for panic or audits. The core DSA duties for smaller sites are manageabl
 - Provide a simple way to report illegal content
 - Publish a basic transparency report once a year if you moderate content
 
-That’s it — and doing this now saves stress later!
+That’s it - and doing this now saves stress later!
 
 ## The DSA isn’t sleeping forever
 
@@ -55,7 +55,7 @@ So, even if “nobody else” seems to care right now, compliance will soon shif
 
 ## Bottom line
 
-The Digital Services Act is already alive. It just hasn’t started shouting yet. If your platform connects people, you’re part of it — and small steps now will save you big headaches later.
+The Digital Services Act is already alive. It just hasn’t started shouting yet. If your platform connects people, you’re part of it - and small steps now will save you big headaches later.
 
 
 
