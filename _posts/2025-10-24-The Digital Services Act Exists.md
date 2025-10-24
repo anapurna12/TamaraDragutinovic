@@ -3,11 +3,7 @@ layout: post
 title: "The Digital Services Act Exists - Even if It Doesn’t Feel Like It"
 date: 2025-10-24
 ---
----
-layout: post
-title: "Digital Services Act: What small platforms need to know"
-date: 2025-10-24
----
+
 
 If you run a small platform or website in the EU, you’ve probably heard of the Digital Services Act (DSA) — or maybe not, because it seems like nobody is talking about it.
 
