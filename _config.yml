@@ -5,9 +5,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   
-url: "https://anapurna12.github.io"
-baseurl: ""         # or "/REPO-NAME" for project sites
-
 
 # Optional navigation (for themes that support it)
 # header_pages:
