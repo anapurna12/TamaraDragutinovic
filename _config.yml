@@ -3,6 +3,7 @@ description: "Content on fintech, law, and regulation."
 theme: minima
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
 header_pages:
   - about.md
   - contact.md
