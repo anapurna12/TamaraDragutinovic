@@ -81,6 +81,6 @@ Transparency itself builds trust — and trust is an underrated SEO factor.
 ## The Future of SEO Without Surveillance
 
 SEO doesn’t have to depend on surveillance or behavioral tracking. It can rely on ethics, content quality, and technical integrity.  
-Ethical SEO is not just about compliance; it’s about trust and sustainability in digital publishing.The future of SEO is not only about being found, but about being found ethically.
+Ethical SEO is not just about compliance; it’s about trust and sustainability in digital publishing.
 
 **The future of SEO is not only about being found, but about being found ethically.**
