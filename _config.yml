@@ -7,6 +7,8 @@ plugins:
 header_pages:
   - about.md
   - contact.md
+include:
+  - privacy.md
   
 
 # Optional navigation (for themes that support it)
@@ -14,7 +16,6 @@ header_pages:
 #   - about.md
 #   - services.md
 #   - contact.md
-include:
-  - privacy.md
+
 
 
