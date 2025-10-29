@@ -8,7 +8,7 @@ header_pages:
   - about.md
   - contact.md
 include:
-  - privacy policy.html
+  - privacy.html
   
 
 # Optional navigation (for themes that support it)
