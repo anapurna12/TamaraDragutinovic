@@ -41,7 +41,7 @@ Most of them rely on cookies, IP addresses, or session identifiers,  meaning the
 
 Ethical SEO means optimizing for humans first - transparency, accessibility, and technical performance — instead of behavioral tracking.
 
-### Use privacy-friendly analytics
+### Use privacy - friendly analytics
 Choose tools that prioritize user privacy and comply with EU data protection rules.
 These platforms will allow you to measure essential metrics (traffic, referrers, pages viewed) without tracking individuals.
 Privacy-friendly analytics, regardless of the specific tool used, should involve no use of identifiers or fingerprinting without valid consent, rely on first-party and purpose-limited data collection, produce only aggregate (rather than individual-level) outputs, retain data for a minimal period, ensure EU-based hosting or a valid international transfer mechanism, and be accompanied by a clear and accessible privacy notice.
