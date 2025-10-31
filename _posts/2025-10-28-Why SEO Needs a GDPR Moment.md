@@ -28,11 +28,12 @@ However, platforms like Google Analytics collect unique identifiers and may tran
 
 ### Personalization → profiling
 Many websites use personalization or A/B testing to improve engagement. These features often rely on "profiling" - analyzing user behavior to predict preferences.  
-Under GDPR, profiling requires a lawful basis and often explicit consent. Without proper configuration, it can easily cross into non-compliance.
+Under GDPR, profiling requires a lawful basis and often explicit consent. The truth is that consent is the safest legal basis for marketing-type profiling. However, "legitimate interests" may apply in limited, well-balanced cases, though not for cookies, as those fall under the scope of the ePrivacy Directive. Without proper configuration, it can easily cross into non-compliance.
 
 ### Tools that process behavioral data
-Common SEO tools such as Google Analytics, Search Console, and similar analytics vendors collect or visualize user data that can intersect with GDPR rules.  
-Most of them rely on cookies, IP addresses, or session identifiers,  meaning they are not “GDPR-neutral” by default.
+Common SEO tools such as Google Analytics, Search Console, and similar analytics vendors collect or visualize user data that can intersect with GDPR rules. 
+Most of them rely on cookies, IP addresses, or session identifiers,  meaning they are not “GDPR-neutral” by default. In GA4, IPs aren’t logged and EU routing is available, but consent and transfer rules still apply, so configuration matters. It is worth noting that the EU General Court upheld the validity of the EU-US Data Privacy Framework in September 2025, indicating that it is no longer accurate to characterize Google Analytics as categorically unlawful within the EU.
+
 
 ---
 
@@ -43,6 +44,7 @@ Ethical SEO means optimizing for humans first - transparency, accessibility, and
 ### Use privacy-friendly analytics
 Choose tools that prioritize user privacy and comply with EU data protection rules.
 These platforms will allow you to measure essential metrics (traffic, referrers, pages viewed) without tracking individuals.
+Privacy-friendly analytics, regardless of the specific tool used, should involve no use of identifiers or fingerprinting without valid consent, rely on first-party and purpose-limited data collection, produce only aggregate (rather than individual-level) outputs, retain data for a minimal period, ensure EU-based hosting or a valid international transfer mechanism, and be accompanied by a clear and accessible privacy notice.
 
 ### Focus on content, performance, and accessibility
 Search engines increasingly reward technical and content quality over behavioral signals.
@@ -60,7 +62,8 @@ If you must use analytics:
 - Avoid collecting unnecessary data like exact location or full referrer paths
 - Keep retention periods short
 
-Data minimization is not just a legal duty - it’s part of ethical digital design.
+Data minimization is not just a legal duty, but a part of ethical digital design.
+To comply with the data minimisation and storage limitation principles outlined in Articles 5(1)(c) and 5(1)(e) of the GDPR, analytics implementations should truncate IP addresses, remove unnecessary query parameters and referrer data, avoid the use of persistent user identifiers without explicit consent, and automatically delete raw event data after a short retention window, retaining only aggregated datasets.
 
 ### Avoid behavioral profiling
 - Don’t personalize content or recommendations based on past browsing without explicit consent
