@@ -7,8 +7,8 @@ plugins:
 header_pages:
   - about.md
   - contact.md
-include:
-  - privacy.html
+  - privacy/index.md
+
   
 
 # Optional navigation (for themes that support it)
