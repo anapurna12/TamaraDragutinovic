@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How the Digital Euro Will Reshape e-Money and Payments in Europe"
+date: 2025-11-29 10:00:00 +0100
+categories: [digital-euro, e-money, ECB]
 ---
 
 ## The ECB, the Digital Euro and the Future of e-Money
